@@ -1,0 +1,7 @@
+Las "tags" HTML, o "etiquetas" HTML, son códigos utilizados 
+para "marcar" el texto de una página web, con el fin de dar instrucciones al navegador 
+sobre cómo mostrarlo.
+
+Es decir, las etiquetas HTML son el lenguaje utilizado para estructurar y 
+definir el contenido en un documento HTML. Estas etiquetas se encuentran en el HTML 
+(o Lenguaje de Marcado de Hipertexto) de cada página. 
